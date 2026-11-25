@@ -86,6 +86,11 @@ O projeto está dividido em dois materiais principais:
 - **Notebook Python:** exploração dos dados, análises e visualizações.
 - **Script SQL:** consultas utilizadas para investigar os indicadores de churn.
 
+## Acessar os arquivos
+
+- [Notebook Python — Análise de Churn](notebooks/analise_churn.ipynb)
+- [Consultas SQL — Análise de Churn](sql/analise_churn.sql)
+
 ## Fonte
 
 IBM — Telco Customer Churn Dataset.
